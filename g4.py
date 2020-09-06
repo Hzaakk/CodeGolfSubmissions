@@ -1,4 +1,4 @@
-n,r,I='5 -90 ┌┐.┌┐│├┬┤││├┼┤││├┴┤│╘┘.└┘'.split()
+n,r,I=input().split()
 m=*[-9425]*4,*map(ord,'		\n\n\r-%51&9/(6 .\'7!0)8"3+:#2*;$4,<====>A?B@C@CDEGFHKIJLLLLMOMONPNPQRQRSW\ZTV]YUX^[_fbi`echagdjklklmmmmnopqrsrsttttuvwxyz{|}~')
 n=int(n)
 r=int(r)//90%4
