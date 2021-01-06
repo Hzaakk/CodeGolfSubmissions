@@ -14,7 +14,7 @@ def t():
 for x in f(4**(R*C)):
 	i=I.copy()
 	b=[]
-	while x>0:
+	while x:
 		b.insert(0,x%4)
 		x//=4
 	for j in f(len(b)):
